@@ -36,8 +36,8 @@ class: center,middle
 
 class:center,middle
 # Let's get started
-##[Right click and save 311 Data](data/311_Noise_2014.xlsx)
-##[Right click and save NYC Population Data](data/NYC_Population_1970-2010.xlsx)
+## [Right click and save 311 Data](data/311_Noise_2014.xlsx)
+## [Right click and save NYC Population Data](data/NYC_Population_1970-2010.xlsx)
 
 ---
 
